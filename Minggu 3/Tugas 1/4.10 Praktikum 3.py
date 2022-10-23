@@ -1,3 +1,5 @@
+#Emilia Santini
+#211001035
 import os
 os.system('cls')
 h="PROGRAM PENJUALAN BUKU"
