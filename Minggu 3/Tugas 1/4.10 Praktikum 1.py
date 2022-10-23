@@ -1,4 +1,7 @@
-#tugas 2
+#Emilia Santini
+#211001035
+import os
+os.system('cls')
 h="PROGRAM MENGHITUNG PEMBELIAN"
 garis="-"*100
 print(h.center(100))
