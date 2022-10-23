@@ -1,4 +1,7 @@
-
+#Emilia Santini
+#211001035
+import os
+os.system('cls')
 univ=("UNIVERSITAS KOMPUTER INDONESIA")
 alamat=("Jl. Dipati Ukur 112-114, Bandung")
 garis1=("---------------------------------------------------")
