@@ -1,5 +1,5 @@
 #Emilia Santini
-#211001114
+#211001035
 import os
 os.system('cls')
 data=("DATA KECEPATAN MOBIL")
