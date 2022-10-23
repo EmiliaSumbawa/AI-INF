@@ -1,3 +1,7 @@
+#Emilia Santini
+#211001114
+import os
+os.system('cls')
 data=("DATA KECEPATAN MOBIL")
 garis1=("-----------------------------")
 kecepatan=input("Kecepatan rata-rata (km/jam)     :"&kecepatan)
